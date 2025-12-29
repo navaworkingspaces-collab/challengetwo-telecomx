@@ -28,3 +28,9 @@
 - Cuaderno base: Alura LATAM – Challenge TelecomX.
 - Repositorio del curso: alura-cursos/challenge2-data-science-LATAM.
 - Ing. Hugo Alejandro Garduño Nava
+
+
+## Datos relevantes
+- La base de datos contiene 7267 registros actualmente.
+- El primer nivel tiene 6 columnas (customerID, Churn, customer, phone, internet, account).
+- El diccionario describe todas las variables originales del dataset completo de TelecomX (más de 20 columnas: género, edad, servicios, cargos, etc.).
